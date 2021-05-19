@@ -1,5 +1,5 @@
 {"version_code":210113001,"content":"
-<p>تحديث|Update 2.0</p>
+<p>تحديث|Update 3.0</p>
 
 <li>تحديث جديد</li>
 
